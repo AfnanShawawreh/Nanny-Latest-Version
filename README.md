@@ -4,7 +4,7 @@ Nany Care
 
 ## Team
 
-- **Product Owner**: Afnan Shwawreh
+- **Product Owner**: Afnan Shawawreh
 - **Scrum Master**: Sura aloqaily
 - **Development Team Members**: Rawan abu-seini, Yousef mohammad , Nosiba Elayan
 
